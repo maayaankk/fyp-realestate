@@ -30,7 +30,6 @@ function Map() {
             lat: home.latitude,
             lng: home.longitude
           }}
-
           onMouseOver={() => {
             setSelectedHouse(home);
             setHouseNum(index)

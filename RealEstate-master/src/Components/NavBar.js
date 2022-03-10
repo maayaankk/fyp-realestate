@@ -36,8 +36,6 @@ const NavBar = (props) => {
         }
     }, [currentUser])
 
-
-
     return (
 
         <div className="NavBar">

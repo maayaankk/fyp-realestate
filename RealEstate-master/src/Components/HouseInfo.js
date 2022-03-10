@@ -77,6 +77,10 @@ const HouseInfo = (props) => {
                 </ul> */}
                 <li id="desc">Description: </li>
                 <li style={DescText}>{Home.desc}</li>
+                {/* <li><h2>Price Prediction:</h2></li>
+                <li>1.9cr</li> */}
+                <li><h3>Price:</h3></li>
+                <li><h3>1.9cr</h3></li>
             </div>
         </div>
     )
